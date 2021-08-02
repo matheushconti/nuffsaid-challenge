@@ -1,6 +1,6 @@
 ## Technologies
 
-Language utilized
+Language
   * [React](https://reactjs.org/)
 
 Principal Libraries
@@ -10,7 +10,7 @@ Principal Libraries
   
 ## Getting Started
 
-To run the project clone the repository:
+clone repository:
 ```
 git clone https://github.com/matheushconti/nuffsaid-challenge.git
 cd nuffsaid-challenge
@@ -26,7 +26,7 @@ run the application:
 npm start
 ```
 
-for testing:
+testing:
 ```
 npm run test
 ```
