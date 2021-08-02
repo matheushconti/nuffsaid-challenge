@@ -1,0 +1,148 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing MessageList rendering MessageList 1`] = `
+<div
+  className="MuiGrid-root MuiGrid-container"
+>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+  >
+    <h5
+      className="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
+    >
+      nuffsaid.com Coding Challenge
+    </h5>
+    <hr
+      className="MuiDivider-root"
+    />
+  </div>
+  <div
+    className="MuiContainer-root MuiContainer-maxWidthLg"
+  >
+    <div
+      className="MuiGrid-root makeStyles-buttonsContent-1 MuiGrid-container MuiGrid-justify-content-xs-center"
+    >
+      <button
+        className="MuiButtonBase-root MuiButton-root WithStyles(ForwardRef(Button))-root-2 MuiButton-contained"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        style={
+          Object {
+            "marginRight": 10,
+          }
+        }
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiButton-label"
+        >
+          Stop
+        </span>
+      </button>
+      <button
+        className="MuiButtonBase-root MuiButton-root WithStyles(ForwardRef(Button))-root-2 MuiButton-contained"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiButton-label"
+        >
+          Clear
+        </span>
+      </button>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4"
+      >
+        <div
+          className="MuiGrid-root makeStyles-titleContainer-3"
+        >
+          <h5
+            className="MuiTypography-root makeStyles-title-4 MuiTypography-h5"
+          >
+            Error Type 1
+          </h5>
+          <p
+            className="MuiTypography-root MuiTypography-body2"
+          >
+            Count 0
+          </p>
+        </div>
+        <div
+          className="MuiGrid-root"
+        />
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4"
+      >
+        <div
+          className="MuiGrid-root makeStyles-titleContainer-3"
+        >
+          <h5
+            className="MuiTypography-root makeStyles-title-4 MuiTypography-h5"
+          >
+            Warning Type 2
+          </h5>
+          <p
+            className="MuiTypography-root MuiTypography-body2"
+          >
+            Count 0
+          </p>
+        </div>
+        <div
+          className="MuiGrid-root"
+        />
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4"
+      >
+        <div
+          className="MuiGrid-root makeStyles-titleContainer-3"
+        >
+          <h5
+            className="MuiTypography-root makeStyles-title-4 MuiTypography-h5"
+          >
+            Info Type 3
+          </h5>
+          <p
+            className="MuiTypography-root MuiTypography-body2"
+          >
+            Count 0
+          </p>
+        </div>
+        <div
+          className="MuiGrid-root"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;

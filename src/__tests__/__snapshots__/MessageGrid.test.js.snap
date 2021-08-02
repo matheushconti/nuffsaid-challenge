@@ -1,0 +1,502 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing MessageGrid component new error message 1`] = `
+<div
+  className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4"
+>
+  <div
+    className="MuiGrid-root makeStyles-titleContainer-1"
+  >
+    <h5
+      className="MuiTypography-root makeStyles-title-2 MuiTypography-h5"
+    >
+      Error Type 1
+    </h5>
+    <p
+      className="MuiTypography-root MuiTypography-body2"
+    >
+      Count 2
+    </p>
+  </div>
+  <div
+    className="MuiGrid-root"
+  >
+    <div
+      className="MuiPaper-root WithStyles(ForwardRef(Paper))-root-5 MuiPaper-elevation1 MuiPaper-rounded"
+      style={
+        Object {
+          "backgroundColor": "#F56236",
+        }
+      }
+    >
+      <div
+        className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-align-content-xs-flex-end"
+      >
+        <div
+          className="MuiGrid-root makeStyles-messageContainer-3 MuiGrid-item MuiGrid-grid-sm-true"
+        >
+          <p
+            className="MuiTypography-root MuiTypography-body2"
+          >
+            error message
+          </p>
+        </div>
+        <div
+          className="MuiGrid-root makeStyles-clearContainer-4 MuiGrid-item"
+        >
+          <p
+            className="MuiTypography-root MuiTypography-body2"
+          >
+            <a
+              className="MuiTypography-root MuiLink-root MuiLink-underlineHover MuiTypography-colorInherit"
+              href="#"
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+            >
+              Clear
+            </a>
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      className="MuiPaper-root WithStyles(ForwardRef(Paper))-root-5 MuiPaper-elevation1 MuiPaper-rounded"
+      style={
+        Object {
+          "backgroundColor": "#F56236",
+        }
+      }
+    >
+      <div
+        className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-align-content-xs-flex-end"
+      >
+        <div
+          className="MuiGrid-root makeStyles-messageContainer-3 MuiGrid-item MuiGrid-grid-sm-true"
+        >
+          <p
+            className="MuiTypography-root MuiTypography-body2"
+          >
+            newest error message
+          </p>
+        </div>
+        <div
+          className="MuiGrid-root makeStyles-clearContainer-4 MuiGrid-item"
+        >
+          <p
+            className="MuiTypography-root MuiTypography-body2"
+          >
+            <a
+              className="MuiTypography-root MuiLink-root MuiLink-underlineHover MuiTypography-colorInherit"
+              href="#"
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+            >
+              Clear
+            </a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Testing MessageGrid component new info message 1`] = `
+<div
+  className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4"
+>
+  <div
+    className="MuiGrid-root makeStyles-titleContainer-1"
+  >
+    <h5
+      className="MuiTypography-root makeStyles-title-2 MuiTypography-h5"
+    >
+      Info Type 3
+    </h5>
+    <p
+      className="MuiTypography-root MuiTypography-body2"
+    >
+      Count 2
+    </p>
+  </div>
+  <div
+    className="MuiGrid-root"
+  >
+    <div
+      className="MuiPaper-root WithStyles(ForwardRef(Paper))-root-5 MuiPaper-elevation1 MuiPaper-rounded"
+      style={
+        Object {
+          "backgroundColor": "#88FCA3",
+        }
+      }
+    >
+      <div
+        className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-align-content-xs-flex-end"
+      >
+        <div
+          className="MuiGrid-root makeStyles-messageContainer-3 MuiGrid-item MuiGrid-grid-sm-true"
+        >
+          <p
+            className="MuiTypography-root MuiTypography-body2"
+          >
+            info message
+          </p>
+        </div>
+        <div
+          className="MuiGrid-root makeStyles-clearContainer-4 MuiGrid-item"
+        >
+          <p
+            className="MuiTypography-root MuiTypography-body2"
+          >
+            <a
+              className="MuiTypography-root MuiLink-root MuiLink-underlineHover MuiTypography-colorInherit"
+              href="#"
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+            >
+              Clear
+            </a>
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      className="MuiPaper-root WithStyles(ForwardRef(Paper))-root-5 MuiPaper-elevation1 MuiPaper-rounded"
+      style={
+        Object {
+          "backgroundColor": "#88FCA3",
+        }
+      }
+    >
+      <div
+        className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-align-content-xs-flex-end"
+      >
+        <div
+          className="MuiGrid-root makeStyles-messageContainer-3 MuiGrid-item MuiGrid-grid-sm-true"
+        >
+          <p
+            className="MuiTypography-root MuiTypography-body2"
+          >
+            newest info message
+          </p>
+        </div>
+        <div
+          className="MuiGrid-root makeStyles-clearContainer-4 MuiGrid-item"
+        >
+          <p
+            className="MuiTypography-root MuiTypography-body2"
+          >
+            <a
+              className="MuiTypography-root MuiLink-root MuiLink-underlineHover MuiTypography-colorInherit"
+              href="#"
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+            >
+              Clear
+            </a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Testing MessageGrid component new warning message 1`] = `
+<div
+  className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4"
+>
+  <div
+    className="MuiGrid-root makeStyles-titleContainer-1"
+  >
+    <h5
+      className="MuiTypography-root makeStyles-title-2 MuiTypography-h5"
+    >
+      Warning Type 2
+    </h5>
+    <p
+      className="MuiTypography-root MuiTypography-body2"
+    >
+      Count 2
+    </p>
+  </div>
+  <div
+    className="MuiGrid-root"
+  >
+    <div
+      className="MuiPaper-root WithStyles(ForwardRef(Paper))-root-5 MuiPaper-elevation1 MuiPaper-rounded"
+      style={
+        Object {
+          "backgroundColor": "#FCE788",
+        }
+      }
+    >
+      <div
+        className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-align-content-xs-flex-end"
+      >
+        <div
+          className="MuiGrid-root makeStyles-messageContainer-3 MuiGrid-item MuiGrid-grid-sm-true"
+        >
+          <p
+            className="MuiTypography-root MuiTypography-body2"
+          >
+            warning message
+          </p>
+        </div>
+        <div
+          className="MuiGrid-root makeStyles-clearContainer-4 MuiGrid-item"
+        >
+          <p
+            className="MuiTypography-root MuiTypography-body2"
+          >
+            <a
+              className="MuiTypography-root MuiLink-root MuiLink-underlineHover MuiTypography-colorInherit"
+              href="#"
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+            >
+              Clear
+            </a>
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      className="MuiPaper-root WithStyles(ForwardRef(Paper))-root-5 MuiPaper-elevation1 MuiPaper-rounded"
+      style={
+        Object {
+          "backgroundColor": "#FCE788",
+        }
+      }
+    >
+      <div
+        className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-align-content-xs-flex-end"
+      >
+        <div
+          className="MuiGrid-root makeStyles-messageContainer-3 MuiGrid-item MuiGrid-grid-sm-true"
+        >
+          <p
+            className="MuiTypography-root MuiTypography-body2"
+          >
+            newest warning message
+          </p>
+        </div>
+        <div
+          className="MuiGrid-root makeStyles-clearContainer-4 MuiGrid-item"
+        >
+          <p
+            className="MuiTypography-root MuiTypography-body2"
+          >
+            <a
+              className="MuiTypography-root MuiLink-root MuiLink-underlineHover MuiTypography-colorInherit"
+              href="#"
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+            >
+              Clear
+            </a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Testing MessageGrid component renders grid for priority 1 (error) 1`] = `
+<div
+  className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4"
+>
+  <div
+    className="MuiGrid-root makeStyles-titleContainer-1"
+  >
+    <h5
+      className="MuiTypography-root makeStyles-title-2 MuiTypography-h5"
+    >
+      Error Type 1
+    </h5>
+    <p
+      className="MuiTypography-root MuiTypography-body2"
+    >
+      Count 1
+    </p>
+  </div>
+  <div
+    className="MuiGrid-root"
+  >
+    <div
+      className="MuiPaper-root WithStyles(ForwardRef(Paper))-root-5 MuiPaper-elevation1 MuiPaper-rounded"
+      style={
+        Object {
+          "backgroundColor": "#F56236",
+        }
+      }
+    >
+      <div
+        className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-align-content-xs-flex-end"
+      >
+        <div
+          className="MuiGrid-root makeStyles-messageContainer-3 MuiGrid-item MuiGrid-grid-sm-true"
+        >
+          <p
+            className="MuiTypography-root MuiTypography-body2"
+          >
+            error message
+          </p>
+        </div>
+        <div
+          className="MuiGrid-root makeStyles-clearContainer-4 MuiGrid-item"
+        >
+          <p
+            className="MuiTypography-root MuiTypography-body2"
+          >
+            <a
+              className="MuiTypography-root MuiLink-root MuiLink-underlineHover MuiTypography-colorInherit"
+              href="#"
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+            >
+              Clear
+            </a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Testing MessageGrid component renders grid for priority 2 (warning) 1`] = `
+<div
+  className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4"
+>
+  <div
+    className="MuiGrid-root makeStyles-titleContainer-1"
+  >
+    <h5
+      className="MuiTypography-root makeStyles-title-2 MuiTypography-h5"
+    >
+      Warning Type 2
+    </h5>
+    <p
+      className="MuiTypography-root MuiTypography-body2"
+    >
+      Count 1
+    </p>
+  </div>
+  <div
+    className="MuiGrid-root"
+  >
+    <div
+      className="MuiPaper-root WithStyles(ForwardRef(Paper))-root-5 MuiPaper-elevation1 MuiPaper-rounded"
+      style={
+        Object {
+          "backgroundColor": "#FCE788",
+        }
+      }
+    >
+      <div
+        className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-align-content-xs-flex-end"
+      >
+        <div
+          className="MuiGrid-root makeStyles-messageContainer-3 MuiGrid-item MuiGrid-grid-sm-true"
+        >
+          <p
+            className="MuiTypography-root MuiTypography-body2"
+          >
+            warning message
+          </p>
+        </div>
+        <div
+          className="MuiGrid-root makeStyles-clearContainer-4 MuiGrid-item"
+        >
+          <p
+            className="MuiTypography-root MuiTypography-body2"
+          >
+            <a
+              className="MuiTypography-root MuiLink-root MuiLink-underlineHover MuiTypography-colorInherit"
+              href="#"
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+            >
+              Clear
+            </a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Testing MessageGrid component renders grid for priority 3 (info) 1`] = `
+<div
+  className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4"
+>
+  <div
+    className="MuiGrid-root makeStyles-titleContainer-1"
+  >
+    <h5
+      className="MuiTypography-root makeStyles-title-2 MuiTypography-h5"
+    >
+      Info Type 3
+    </h5>
+    <p
+      className="MuiTypography-root MuiTypography-body2"
+    >
+      Count 1
+    </p>
+  </div>
+  <div
+    className="MuiGrid-root"
+  >
+    <div
+      className="MuiPaper-root WithStyles(ForwardRef(Paper))-root-5 MuiPaper-elevation1 MuiPaper-rounded"
+      style={
+        Object {
+          "backgroundColor": "#88FCA3",
+        }
+      }
+    >
+      <div
+        className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-align-content-xs-flex-end"
+      >
+        <div
+          className="MuiGrid-root makeStyles-messageContainer-3 MuiGrid-item MuiGrid-grid-sm-true"
+        >
+          <p
+            className="MuiTypography-root MuiTypography-body2"
+          >
+            info message
+          </p>
+        </div>
+        <div
+          className="MuiGrid-root makeStyles-clearContainer-4 MuiGrid-item"
+        >
+          <p
+            className="MuiTypography-root MuiTypography-body2"
+          >
+            <a
+              className="MuiTypography-root MuiLink-root MuiLink-underlineHover MuiTypography-colorInherit"
+              href="#"
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+            >
+              Clear
+            </a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
